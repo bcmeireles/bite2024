@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "65ff13cf14a42bb3e4eca3d0"
+  },
+  "unit": 1,
+  "question": "I have a glass bottle. Where am I putting it?",
+  "answers": [
+    "Green",
+    "Blue",
+    "Yellow",
+    "General Waste"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65ff3a5614a42bb3e4eca3db"
+  },
+  "unit": 1,
+  "question": "Where can we put juice cans?",
+  "answers": [
+    "Yellow",
+    "Blue",
+    "Green",
+    "General Waste"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660000cc14a42bb3e4eca3e8"
+  },
+  "unit": 1,
+  "question": "Where can we put plastic packagings?",
+  "answers": [
+    "Yellow",
+    "Blue",
+    "Green",
+    "General Waste"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660000fc14a42bb3e4eca3e9"
+  },
+  "unit": 1,
+  "question": "Where can we put a light bulb?",
+  "answers": [
+    "General Waste",
+    "Blue",
+    "Green",
+    "Yellow"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6600012914a42bb3e4eca3ea"
+  },
+  "unit": 1,
+  "question": "What's the importance of recycling?",
+  "answers": [
+    "Reduce waste",
+    "Increase consume",
+    "Increase carbon footprint",
+    "Reducing the amount of work we have"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660022ba14a42bb3e4eca3fe"
+  },
+  "unit": 2,
+  "question": "The milk cartons should be deposited in which recycling bin?",
+  "answers": [
+    "Yellow",
+    "Blue",
+    "None",
+    "General Waste"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660022de14a42bb3e4eca3ff"
+  },
+  "unit": 2,
+  "question": "In which recycling bin should an appliance be deposited?",
+  "answers": [
+    "None",
+    "Blue",
+    "Green",
+    "Yellow"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6600233514a42bb3e4eca400"
+  },
+  "unit": 2,
+  "question": "Why should packaging glass be deposited in the Green Bin?",
+  "answers": [
+    "They melt at similar temperatures",
+    "They are more resistent",
+    "They are more fragile",
+    "They have similar colors"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6600399714a42bb3e4eca408"
+  },
+  "unit": 3,
+  "question": "Can used television remote control batteries be placed in Mixed Waste?",
+  "answers": [
+    "No",
+    "Yes",
+    "Yes but only the clock ones",
+    "Yes but only the rechargable ones"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660039c314a42bb3e4eca409"
+  },
+  "unit": 3,
+  "question": "How many liters of water can a single battery contaminate?",
+  "answers": [
+    "3000",
+    "500",
+    "1500",
+    "2500"
+  ]
+},
+{
+  "_id": {
+    "$oid": "660039f914a42bb3e4eca40a"
+  },
+  "unit": 3,
+  "question": "Can bicycle oil be placed in the Oil Bin?",
+  "answers": [
+    "No",
+    "Yes",
+    "Yes because it's not vegetable",
+    "No because it's general waste"
+  ]
+}]

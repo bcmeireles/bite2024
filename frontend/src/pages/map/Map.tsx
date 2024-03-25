@@ -50,7 +50,7 @@ const Map: React.FC = () => {
       navigator.geolocation.getCurrentPosition(
         (position) => {
           resolve([position.coords.latitude, position.coords.longitude]);
-          const response = fetch(`http://localhost:5000/markers?lat=${position.coords.latitude}&long=${position.coords.longitude}&radius=500`)
+          const response = fetch(`http://localhost:5000/markers?lat=${position.coords.latitude}&long=${position.coords.longitude}&radius=2000`)
           .then(response => response.json())
           .then(data => {
             console.log("os dados aqui");
@@ -134,7 +134,7 @@ const Map: React.FC = () => {
 
   const fullIcon = new L.Icon({
     iconUrl: fullMarkerSvg,
-    iconSize: iconOptions.iconSize,
+    iconSize: [37, 61],
     iconAnchor: iconOptions.iconAnchor,
     popupAnchor: iconOptions.popupAnchor,
   });
@@ -176,7 +176,7 @@ const Map: React.FC = () => {
           </>}
         {markers.map((marker, index) => (
           <Marker key={index} position={marker.position} icon={marker.type === 'self' ? customBlueIcon : marker.type === "oil" ? oilIcon : marker.type === "battery" ? batteryIcon : marker.type === "glass" ? glassIcon : marker.type === "trash" ? trashIcon : fullIcon }>
-            <Popup>{marker.type.charAt(0).toUpperCase() + marker.type.slice(1)}</Popup>
+            <Popup>{marker.type === "full" ? "General Waste" : marker.type.charAt(0).toUpperCase() + marker.type.slice(1)}</Popup>
           </Marker>
         ))}
       </MapContainer>

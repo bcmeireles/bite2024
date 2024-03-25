@@ -2,7 +2,7 @@ from flask import Flask
 from flask_cors import CORS
 
 
-from routes import auth, quizzes, scans, learn, markers
+from routes import auth, quizzes, scans, learn, markers, news
 
 from flask_jwt_extended import JWTManager
 
@@ -18,6 +18,7 @@ def create_routes():
     scans.create_routes(app)
     learn.create_routes(app)
     markers.create_routes(app)
+    news.create_routes(app)
 
 if __name__ == '__main__':
     create_routes()

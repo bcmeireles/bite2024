@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
-client = MongoClient('mongodb+srv://bcmeireles74:SsGk4OiE4ReAgQBm@cluster0.qd78mwa.mongodb.net/')
+client = MongoClient('localhost', 27017)
 db = client['bite2024']
 
 class Collection:

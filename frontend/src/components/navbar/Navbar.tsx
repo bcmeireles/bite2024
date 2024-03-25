@@ -48,7 +48,7 @@ function Navbar(props: { selected: number }) {
   const iconSize = 32
 
   return (
-    <div className="fixed bottom-0 inset-x-0 bg-gray-200 bg-opacity-80 flex justify-around py-2">
+    <div className="fixed bottom-0 inset-x-0 bg-gray-200 bg-opacity-100 flex justify-around py-2">
       {icons.map(({ name, icon, iconSelected, href }, index) => (
         <div key={index} className="flex-1 flex flex-col items-center">
           <a href={href}>

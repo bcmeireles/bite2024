@@ -106,4 +106,6 @@ def create_routes(app):
         user_safe.pop('_id')
         user_safe.pop('hashed_password')
 
+        user_safe["history"] = list(reversed(user_safe["history"]))
+
         return jsonify({"status": "success", "data": user_safe})

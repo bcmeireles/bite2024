@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "65ff828a14a42bb3e4eca3e0"
+  },
+  "unit": 1,
+  "text": "Recycling is a waste reduction process in which each one of us can contribute! From the first moment we consume any product, by separating it by its type, we are helping so that it can later be transformed and reused again, reducing waste and the carbon footprint.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "65ff82c814a42bb3e4eca3e1"
+  },
+  "unit": 1,
+  "text": "To begin with, we have the three main colors, Yellow, Blue, and Green. In the Yellow container, we can find some of the most commonly used products in our daily lives, such as plastic packaging, juice cans, or even potato chip bags. We also have Black or Brown for undifferentiated waste, that is, common waste.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600022614a42bb3e4eca3ec"
+  },
+  "unit": 1,
+  "text": "In the Blue container, we leave all those papers that we no longer need, such as bills, flyers, draft sheets or yesterday's newspaper. But be careful! Paper towels, tissues, or wet wipes go in the common waste!",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600024014a42bb3e4eca3ed"
+  },
+  "unit": 1,
+  "text": "In the Green container, we can leave empty glass bottles, jars, perfume or nail polish bottles.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600026b14a42bb3e4eca3ee"
+  },
+  "unit": 1,
+  "text": "Finally, we have the undifferentiated waste, here we leave everything that cannot be separated, such as food scraps, paper towels, tissues, cigarette butts, or other non-toxic packaging that does not fit into any other category.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "66001ff614a42bb3e4eca3f3"
+  },
+  "unit": 2,
+  "text": "It seems easy, doesn't it? Paper in the blue, glass in the green, and plastic in the yellow.  As we can see at the end of the first Guide's Quiz, sometimes there are packaging or objects that, despite being composed of the same family of materials, are not recyclable, so their disposal is only possible in mixed waste.  However, there are others that seem to belong to one recycling bin but actually belong to another.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "66001ff914a42bb3e4eca3f4"
+  },
+  "unit": 2,
+  "text": "Let's start with the Yellow bin. It's where we deposit plastic or aluminum packaging. But can we deposit all types of plastics and metals there? No. Only plastics or metals used in packaging, such as cans for food or drinks, detergent or cleaning product packaging, or hygiene and beauty products packaging. However, there are also other types of packaging that may appear different at first glance, such as Styrofoam or milk cartons. Yes, despite having cardboard on their exterior, their interior is also composed of plastics and aluminum!",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "66001ffe14a42bb3e4eca3f5"
+  },
+  "unit": 2,
+  "text": "So, what we can put in the Yellow bin is: Plastic bottles and jugs; Yogurt containers; Plastic packaging, such as for rice, pasta, butter, and cookies; Cleaning detergent and hygiene product packaging; Plastic bags; Beverage cans and tins; Aerosol cans; Liquid food packaging, including milk, juice, wine, cream, and tomato; Styrofoam.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600200014a42bb3e4eca3f6"
+  },
+  "unit": 2,
+  "text": "And what can't we put in? Appliances; Pots and pans; Batteries; Tools; Metal and plastic cutlery; DVDs and CDs; Coffee capsules (plastic or aluminum); Toothbrushes; Pens",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600200214a42bb3e4eca3f7"
+  },
+  "unit": 2,
+  "text": "In the case of Azul, it is necessary that the materials (paper, cardboard) are not contaminated. What does that mean? These materials are very absorbent, as can be easily seen in everyday life. On a larger or smaller scale, when they come into contact with products - liquids or fats, for example - the tendency is for them to absorb them. And that makes it impossible for them to be recycled.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600211414a42bb3e4eca3f8"
+  },
+  "unit": 2,
+  "text": "So, what can we put in? Paper shopping bags; Assembly or equipment usage instruction brochures, for example; Advertising leaflets; Game boxes; Cardboard boxes – for cereals, cookies, detergents; Matchboxes; Pizza boxes (if they don't have grease); Envelopes, writing and printing paper; Inner roll of toilet paper and kitchen paper; Animal food bags; Magazines and newspapers; Egg cartons; Cardboard wrappers of bottle or yogurt packs, for example; Tickets – for transportation, shows; Wrapping paper. ",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600211714a42bb3e4eca3f9"
+  },
+  "unit": 2,
+  "text": "And what can't we put in? Dirty paper; Cardboard boxes with grease; Tissues, kitchen paper, and paper napkins; Plastic-coated paper; Adhesive paper; Aluminum foil; Glossy paper; Cement bags; Chemical product packaging; Wipes and diapers.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600211914a42bb3e4eca3fa"
+  },
+  "unit": 2,
+  "text": "Lastly, we have the Green Bin, which is exclusively for glass from empty glass bottles, jars, perfume bottles, or nail polish, because the composition of packaging glass is not the same as other types of glass, and therefore, they do not melt at the same temperature.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600211b14a42bb3e4eca3fb"
+  },
+  "unit": 2,
+  "text": "So what can't we put in? Light bulbs; Glass or crystal cups; Mirrors, Medicine ampoules; Pyrex; Ceramic plates/cups. Everything else that doesn't fit into one of the previous recycling bins and is not toxic to the environment should be placed in general waste.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600224514a42bb3e4eca3fc"
+  },
+  "unit": 3,
+  "text": "There are also other special containers that fulfill very specific yet no less important purposes, containers whose purpose is to allow certain types of products that would otherwise end up in a landfill to be reused in a way that does not contaminate soil or water. These eco-points are the Battery Recycling Bin and the Oil Bin.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "660038bb14a42bb3e4eca402"
+  },
+  "unit": 3,
+  "text": "The Battery Recycling Bin is located within Eco-Points, while other cardboard battery bins are typically found in retail locations such as supermarkets and hypermarkets, as well as other Eco-Partners (schools, parish councils, etc.).\n\nOnly used batteries from remote controls, flashlights, watches, toys, as well as used batteries from mobile phones, computers, power tools, cameras, and camcorders, among others, should be placed in the battery bins.\n\nBatteries are hazardous waste. A single battery can contaminate 3000 liters of water!",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "660038d714a42bb3e4eca403"
+  },
+  "unit": 3,
+  "text": "O Oil Bin é um equipamento de recolha selectiva de óleos alimentares domésticos usados, localizado geralmente junto às ilhas de ecopontos, óleos esses que posteriormente são recolhidos e reciclados, transformando-se em biodiesel e sabão, protegendo desta forma o ambiente.\n\nUma gota de óleo pode poluir 25 litros de água potável, logo é essencial colocar os óleos de fritura nos oleões, os quais vêm materializar a vontade e necessidade de separar e reciclar os óleos;\n",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "660038e814a42bb3e4eca404"
+  },
+  "unit": 3,
+  "text": "Ao se deitar para o lava-louça os óleos alimentares está-se a contribuir para os entupimentos nas canalizações domesticas, pois quando lançados nas redes de drenagem de águas residuais, os óleos poluem e obstruem os filtros existentes nas estações de tratamento de àguas, tornando-se assim num grande obstáculo ao seu bom funcionamento;\nAo Reciclar os Óleos Alimentares Usados não só se evita a poluição de àguas como se está também a transformar o óleo em Biodiesel, uma fonte renovável de energia que diminui as emissões de CO2.\n",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600391f14a42bb3e4eca405"
+  },
+  "unit": 3,
+  "text": "In the Oil Bin, only vegetable-based cooking oil (such as olive oil, canned oils, and any frying oils) should be deposited. Margarine, butter, and other food residues resulting from frying cannot be deposited. These should be disposed of in regular waste bins. Motor lubricating oils (whether mineral or synthetic) should never be deposited in oil bins.",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "6600393f14a42bb3e4eca406"
+  },
+  "unit": 3,
+  "text": "O óleo lubrificante mineral ou sintético devem ser entregues nos pontos de receção próprios , neste caso deve-se contactar a autarquia local  para saber qual a entidade gestora do Sistema Integrado de Gestão de Óleos Usados.",
+  "image": ""
+}]

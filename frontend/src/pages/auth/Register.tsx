@@ -88,7 +88,11 @@ const Register: React.FC = () => {
           <div className="flex items-center justify-between">
             <button type="submit" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline w-full">Register</button>
           </div>
+          <div className="text-center mt-4">
+            <p>Already registered? <a href="/login" className="text-blue-500 hover:text-blue-700">Click here</a></p>
+          </div>
         </form>
+        
       </div>
       </div>
     </div>

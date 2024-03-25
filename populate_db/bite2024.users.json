@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "66003d85ca1ad95c8f750d70"
+  },
+  "name": "test",
+  "email": "test@test.test",
+  "hashed_password": "scrypt:32768:8:1$Xw4dhxUSasbBHzoi$ffc8a53f0c4de176f3cbdadab819d56c5f6332aa09bced76107b8aba9f6f61963f1d7a0fac79ccbb37a40ee2fbf544326102634ff87bdd3df77eb05129348712",
+  "points": 3,
+  "history": [
+    {
+      "date": "2024-03-24T14:50:06.124272",
+      "change": 1,
+      "reason": "Scanned an item"
+    },
+    {
+      "date": "2024-03-24T14:50:09.474851",
+      "change": -1,
+      "reason": "Redeemed offer"
+    },
+    {
+      "date": "2024-03-24T14:50:44.701265",
+      "change": 1,
+      "reason": "Scanned an item"
+    },
+    {
+      "date": "2024-03-24T14:50:48.099115",
+      "change": 1,
+      "reason": "Scanned an item"
+    }
+  ],
+  "image": "",
+  "quizzes": [
+    false,
+    false,
+    false
+  ],
+  "news": [],
+  "settings": {}
+}]
