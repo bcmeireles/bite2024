@@ -50,7 +50,7 @@ const Map: React.FC = () => {
       navigator.geolocation.getCurrentPosition(
         (position) => {
           resolve([position.coords.latitude, position.coords.longitude]);
-          const response = fetch(`http://localhost:5000/markers?lat=${position.coords.latitude}&long=${position.coords.longitude}&radius=2000`)
+          const response = fetch(`http://localhost:5000/markers?lat=${position.coords.latitude}&long=${position.coords.longitude}&radius=750`)
           .then(response => response.json())
           .then(data => {
             console.log("os dados aqui");
